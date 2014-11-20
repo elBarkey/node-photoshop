@@ -37,9 +37,6 @@
     "JSONStream",
     "concat-stream"
   ],
-  "os": [
-    "darwin"
-  ],
   "author": "Thomas Aylott <oblivious@subtlegradient.com>",
   "copyright": "2013 Facebook",
   "license": "MIT"
